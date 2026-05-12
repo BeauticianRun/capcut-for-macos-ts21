@@ -1,4 +1,4 @@
-# 
+# Enhance CapCut for macOS with CapCut for macOS new Transition: chromatic-aberration-fix & echo-removal, the #1 transition. Includes chromatic-aberration-fix and echo-removal for a
 
 
 
